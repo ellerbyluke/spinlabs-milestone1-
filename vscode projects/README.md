@@ -1,6 +1,7 @@
 ﻿# spinlabs-milestone1
 # Spinlab
 <a href="index.html"> click for live site </a>
+
 Welcome to Spinlab, a responsive website built using HTML, CSS, and Bootstrap. This project is part of the Code Institute Full Stack Development Course.
 
 ## Introduction
