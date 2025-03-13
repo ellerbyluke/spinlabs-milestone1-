@@ -1,6 +1,7 @@
 ## **Overview**  
 Spinlab is a responsive website built using **HTML, CSS, and Bootstrap**. This project is part of the **Code Institute Full Stack Development Course**.  
 
+https://ellerbyluke.github.io/spinlabs-milestone1-/
 ---
 
 ## **Purpose and Value of the Project**  
