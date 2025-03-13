@@ -133,16 +133,29 @@ The project was deployed using **GitHub Pages**.
 ## **Images of finished project:**
 
 1. Homepage
+   
+![homepage image](./spinlab-images/spinlabshome.png)
 
 2. Booking
 
-3. Booking result page
+![homepage image](./spinlab-images/spinlabsbooking.png)
 
-4. Contact
+4. Booking result page
 
-5. Header
+![homepage image](./spinlab-images/spinlabsbookingresult.png)
 
-6. Footer
+5. Contact
+
+![homepage image](./spinlab-images/spinlabscontact.png)
+
+6. Header
+
+![homepage image](./spinlab-images/spinlabsheader.png)
+
+7. Footer
+
+![homepage image](./spinlab-images/spinlabsfooter.png)
+
 ---
 
 ## **Future Enhancements**  
