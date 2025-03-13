@@ -53,15 +53,21 @@ Wireframes were created to **plan the layout** of the website before development
 - **Feature Grid** (4 boxes highlighting key aspects)  
 - **Footer** (Social Media Links)  
 
+![Wireframe 1 Index](./wireframes/wireframe%201%20index.png)
+
 ### **Booking Page**  
 - **Header** (Navigation)  
 - **Booking Form** (User input fields)  
 - **Submission Confirmation**  
 
+![Wireframe 2 booking](./wireframes/wireframe%202%20booking.png)
+
 ### **Contact Page**  
 - **Header**  
 - **Contact Information** (Phone, Email, Address)  
 - **Footer**  
+
+![Wireframe 4 contact](./wireframes/wireframe%204%20contact.png)
 
 ---
 
