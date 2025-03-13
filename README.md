@@ -130,6 +130,20 @@ The project was deployed using **GitHub Pages**.
 4. Click **Save**, and the site will be deployed.  
 
 ---
+## **Images of finished project:**
+
+1. Homepage
+
+2. Booking
+
+3. Booking result page
+
+4. Contact
+
+5. Header
+
+6. Footer
+---
 
 ## **Future Enhancements**  
 - **Email confirmation system** after booking.  
