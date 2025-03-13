@@ -1,135 +1,180 @@
-﻿# spinlabs-milestone1
-# Spinlab
-<a href="index.html"> click for live site </a>
+## **Overview**  
+Spinlab is a responsive website built using **HTML, CSS, and Bootstrap**. This project is part of the **Code Institute Full Stack Development Course**.  
 
-Welcome to Spinlab, a responsive website built using HTML, CSS, and Bootstrap. This project is part of the Code Institute Full Stack Development Course.
+https://ellerbyluke.github.io/spinlabs-milestone1-/
+---
 
-## Introduction
+## **Purpose and Value of the Project**  
+Spinlab is a fictional **music and DJ space** that offers an engaging and modern online presence for users interested in:  
 
-Spinlab is a project for a fictional music and DJ space. Users can navigate through the website using a functional navigation bar. Spinlab offers users information about the business on the home page, a booking form to book a space, and contact information on the contact page.
+- **Booking a space** for DJ sessions.  
+- **Networking with fellow DJs** and music enthusiasts.  
+- **Learning more** about the community and available services.  
 
-Thank you for visiting Spinlab.
-
-## UX - User Experience Design
-
-A user experience designer, Jesse James Garrett, introduced five UX design elements in his book *The Elements of User Experience*. In the book, he explains the steps of user experience projects and what UX designers should consider at each stage. This is where most of my planning process steps came from.
-
-The 5 planes of UX are as below:
-- The Strategy Plane
-- The Scope Plane
-- The Structure Plane
-- The Skeleton Plane
-- The Surface Plane
-
-### The Strategy Plane
-
-#### Creator Goals
-- As a creator, I want the webpage to be easy to navigate.
-- As a creator, I want the webpage to be user-friendly and responsive.
-- As a creator, I want users to be able to see what the business has to offer immediately (on the home page).
-- As a creator, I want users to be motivated to book activities being offered by the business and/or book a table after visiting the webpage.
-
-#### User Stories
-- As a user, I want to be able to navigate across the site to see different pages on the webpage.
-- As a user, I want the purpose of the webpage to be clear so I can decide if the content is right for me.
-- As a user, I want to see the available activities and drinks menu.
-- As a user, I want to be able to contact the business either via phone or online.
-
-User stories are based on online research, personal experience, and my relatives' experiences.
-
-### The Scope Plane
-
-I thought of the features I wanted to implement before designing the project, and a few of them were not achievable within my deadline. I decided to implement the ones covering my user stories first and add the remaining features later.
-
-#### Features implemented upon webpage release
-- Home Page with an introduction and an overview of what the space aims to provide.
-- Functional navigation bar, allowing users to navigate to different pages.
-- Booking form allowing users to book a space.
-- Contact page displaying contact information.
-- Footer with links to social media.
-
-#### Features planned to add later
-- A feature that will send a user an email confirmation after making a reservation or filling out a booking form.
-- An additional section showing customer reviews from Google. This will also be added to the home page.
-- An additional page for a photo gallery containing photos from activities like DJ sessions and workshops. 
-
-## colors 
-
-The website uses a simple black and white theme to create a clean and modern look. The choice of colors is intended to provide a professional and minimalist aesthetic that is easy on the eyes and enhances readability. The black background helps to make the white text and icons stand out, ensuring that the content is clear and accessible to users.
-
-- **black**: Used for the main background in header, footer and all main sections to provide a consistent and cohesive look.
-- **white**: Used for text, social links, and icons to ensure they are easily readable against the darker backgrounds 
-
-This black and white color scheme helps to create a visually appealing and user-friendly interface that enhances the overall user experience.  
-
-## Fonts
-Both fonts used in this project are Google Fonts.
-
-- **Roboto**: Used as the main font, as it's one of the most popular and user-friendly fonts. The Roboto font is easy to read even on the smallest devices and provides a positive user experience.
-- **Exo**: Used for some headings, the navigation bar, and the menu section. Using a different font for these features helped highlight important sections to the user and made the website easier and quicker to navigate.
-
-## Manual Testing
-
-### Navigation bar
-- Fully responsive on large/medium/small resolutions.
-- Toggles to a hamburger menu on mobile devices and stays fully responsive.
-- All links to pages are working properly.
-- Hover CSS is correctly working.
-
-### Footer
-- Fully responsive on large/medium/small resolutions.
-- Social media links are working.
-- Links to pages are working properly.
-- Hover CSS is correctly working.
-
-### Grid system (Bootstrap)
-- Working as intended, successfully changing the number of columns on smaller devices, making the website fully responsive.
-
-### Contact form
-- Displays contact information as intended.
-- Looks good on smaller devices.
-
-## Chrome Dev Tools
-
-Chrome Dev Tools was used throughout the development of the project to test responsiveness. Responsiveness was tested using Dev Tools to emulate the following devices:
-- iPhone SE
-- iPhone XR
-- iPhone 12 Pro
-- iPhone 14 Pro Max
-- Pixel 7
-- Samsung Galaxy S8+
-- Samsung Galaxy S20 Ultra
-- iPad Mini
-- iPad Air
-- iPad Pro
-- Surface Pro 7
-- Surface Duo
-- Galaxy Fold
-- Samsung Galaxy A51/71
-- Nest Hub
-- Nest Hub Max
-
-## Repository and Deployment
-
-The main branch of this repository is the most current version and has been used for the deployed version of the site.
-
-### Steps to Use This Template
-1. Click the "Use This Template" button.
-2. Give your repository a name and description.
-3. Open VSCode and log into your account.
-4. Click the "New Workspace" button.
-5. Create a workspace from your project repository by creating a clone.
-
-### Creating a Clone
-1. From the repository, click "Code".
-2. In the "Clone" >> "HTTPS" section, copy the clone URL for the repository.
-3. Paste the link into the designated area in VSCode.
-
-### Forking
-1. From the repository, click "Fork".
-2. Give your repository a name.
-3. Click "Create fork".
+### **Value to Users:**  
+✅ Provides an **intuitive** and **responsive** user experience.  
+✅ Allows users to **easily navigate** through the website.  
+✅ Encourages **interaction and engagement** with a booking system.  
+✅ Displays **clear contact information** for inquiries.  
 
 ---
+
+## **User Experience (UX) Design**  
+
+A user experience designer, **Jesse James Garrett**, introduced five UX design elements in his book *The Elements of User Experience*. This project follows that UX approach.  
+
+### **The Five Planes of UX:**  
+1. **Strategy Plane**  
+   - The goal is to create a visually appealing, modern, and easy-to-navigate site.  
+   - Ensures a seamless user experience for DJs, event organizers, and customers.  
+
+2. **Scope Plane**  
+   - The website includes essential features like a **home page, booking form, and contact page**.  
+
+3. **Structure Plane**  
+   - The **navigation bar** allows easy switching between pages.  
+   - A **clear call-to-action (CTA)** directs users to book a space.  
+
+4. **Skeleton Plane**  
+   - The **Bootstrap grid system** is used for layout and responsiveness.  
+   - Hover effects and transitions improve user interaction.  
+
+5. **Surface Plane**  
+   - The website features a **black and white modern theme**.  
+   - Fonts like **Roboto** and **Exo** ensure readability.  
+
+---
+
+## **Wireframes**  
+Wireframes were created to **plan the layout** of the website before development. Below is a basic wireframe structure of each page:  
+
+### **Home Page**  
+- **Header** (Logo + Navigation)  
+- **Main Section** (Introduction & Overview)  
+- **Feature Grid** (4 boxes highlighting key aspects)  
+- **Footer** (Social Media Links)  
+
+![Wireframe 1 Index](./wireframes/wireframe%201%20index.png)
+
+### **Booking Page**  
+- **Header** (Navigation)  
+- **Booking Form** (User input fields)  
+- **Submission Confirmation**  
+
+![Wireframe 2 booking](./wireframes/wireframe%202%20booking.png)
+
+### **Contact Page**  
+- **Header**  
+- **Contact Information** (Phone, Email, Address)  
+- **Footer**  
+
+![Wireframe 4 contact](./wireframes/wireframe%204%20contact.png)
+
+---
+
+## **Debugging Process**  
+During development, multiple debugging techniques were used to ensure functionality and responsiveness.  
+
+### **Common Issues Found & Fixed:**  
+1. **Navigation Bar Responsiveness**  
+   - Initially, some elements **overflowed on smaller screens**.  
+   - **Fix:** Used **Bootstrap’s grid system** and flex properties.  
+
+2. **Form Alignment Issues**  
+   - The booking form fields were **misaligned** on some screen sizes.  
+   - **Fix:** Used **Bootstrap columns** for proper alignment.  
+
+3. **Broken Links**  
+   - Some social media links **did not open correctly**.  
+   - **Fix:** Ensured **valid href attributes** and external link handling.  
+
+---
+
+## **Validation of HTML & CSS Code**  
+
+### **HTML Validation**  
+✅ Used **W3C HTML Validator** to check for syntax errors.  
+✅ Ensured proper **nesting of elements** and semantic structure.  
+✅ Fixed minor **missing alt attributes** on images.  
+
+### **CSS Validation**  
+✅ Used **W3C CSS Validator** to check for styling errors.  
+✅ Fixed **unnecessary duplicate properties**.  
+✅ Ensured **cross-browser compatibility** with proper prefixes.  
+
+---
+
+## **Testing & Deployment**  
+
+### **Manual Testing**  
+The website was tested on multiple devices using **Chrome DevTools** for different screen sizes:  
+
+✅ Fully responsive on **mobile, tablet, and desktop**.  
+✅ Hover effects and animations work correctly.  
+✅ Navigation bar **collapses correctly** on small screens.  
+✅ Booking form is **functional and user-friendly**.  
+
+### **Devices Used for Testing:**  
+- **iPhone SE, XR, 12 Pro, 14 Pro Max**  
+- **Pixel 7, Samsung Galaxy S8+, S20 Ultra**  
+- **iPad Mini, iPad Air, iPad Pro**  
+- **Surface Pro 7, Surface Duo**  
+- **Nest Hub, Nest Hub Max**  
+
+### **Deployment**  
+The project was deployed using **GitHub Pages**.  
+
+#### **Steps to Deploy:**  
+1. Navigate to your **GitHub Repository**.  
+2. Click on **Settings > Pages**.  
+3. Select the **main branch** as the source.  
+4. Click **Save**, and the site will be deployed.  
+
+---
+## **Images of finished project:**
+
+1. Homepage
+   
+![homepage image](./spinlab-images/spinlabshome.png)
+
+2. Booking
+
+![homepage image](./spinlab-images/spinlabsbooking.png)
+
+4. Booking result page
+
+![homepage image](./spinlab-images/spinlabsbookingresult.png)
+
+5. Contact
+
+![homepage image](./spinlab-images/spinlabscontact.png)
+
+6. Header
+
+![homepage image](./spinlab-images/spinlabsheader.png)
+
+7. Footer
+
+![homepage image](./spinlab-images/spinlabsfooter.png)
+
+---
+
+## **Future Enhancements**  
+- **Email confirmation system** after booking.  
+- **Customer reviews section** to improve credibility.  
+- **Photo gallery page** showcasing Spinlab events.  
+
+---
+
+## **Repository and Development Process**  
+
+### **Cloning the Repository**  
+To create a local copy of this project:  
+1. Click the **"Code"** button in GitHub.  
+2. Copy the **HTTPS** URL.  
+3. Open a terminal and run:  
+   ```bash
+   git clone https://github.com/Ellerbyluke/spinlab.git
+
 
 Thank you for visiting Spinlab!
