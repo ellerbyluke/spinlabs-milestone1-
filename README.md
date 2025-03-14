@@ -72,7 +72,7 @@ Wireframes were created to **plan the layout** of the website before development
 
 ---
 
-## **Debugging Process**  
+## **Testing Process**  
 During development, multiple debugging techniques were used to ensure functionality and responsiveness.  
 
 ### **Common Issues Found & Fixed:**  
