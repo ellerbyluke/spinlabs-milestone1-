@@ -133,27 +133,27 @@ The project was deployed using **GitHub Pages**.
 ---
 ## **Images of finished project:**
 
-1. Homepage
+1. Homepage - four paragraphs to explain the different aspects of what the space aims to achieve 
    
 ![homepage image](./spinlab-images/spinlabshome.png)
 
-2. Booking
+2. Booking- a booking form comprising of a first name, last name and email address as well as to radio buttons to select between booking a studio or group booking. 
 
 ![homepage image](./spinlab-images/spinlabsbooking.png)
 
-4. Booking result page
+4. Booking result page - a simple thank you message after form completion 
 
 ![homepage image](./spinlab-images/spinlabsbookingresult.png)
 
-5. Contact
+5. Contact- a simple information page with spinlabs email, phone number and physical address displayed 
 
 ![homepage image](./spinlab-images/spinlabscontact.png)
 
-6. Header
+6. Header - the spinlabs logo and title and below a navigation bar giving options for the user to navigate to the home page, booking page and contact us page
 
 ![homepage image](./spinlab-images/spinlabsheader.png)
 
-7. Footer
+7. Footer a simple footer with social media links via logo's to github facebook and instagram 
 
 ![homepage image](./spinlab-images/spinlabsfooter.png)
 
