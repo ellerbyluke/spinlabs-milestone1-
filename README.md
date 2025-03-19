@@ -75,7 +75,7 @@ Wireframes were created to **plan the layout** of the website before development
 ## **Testing Process**  
 During development, multiple debugging techniques were used to ensure functionality and responsiveness.  
 
-### **Common Issues Found & Fixed:**  
+### **Common Bugs Found & Fixed:**  
 1. **Navigation Bar Responsiveness**  
    - Initially, some elements **overflowed on smaller screens**.  
    - **Fix:** Used **Bootstrap’s grid system** and flex properties.  
