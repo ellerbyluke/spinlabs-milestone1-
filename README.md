@@ -131,7 +131,7 @@ The project was deployed using **GitHub Pages**.
 4. Click **Save**, and the site will be deployed.  
 
 ---
-## **Images of finished project:**
+## **Images of finished features:**
 
 1. Homepage - four paragraphs to explain the different aspects of what the space aims to achieve 
    
